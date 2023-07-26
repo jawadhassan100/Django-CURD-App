@@ -1,9 +1,9 @@
-Django CRUD Project:
+# Django CRUD Project:
 
-Setup this Project
-Clone this project
+# Setup this Project
+## Clone this project
 git clone https://github.com/jawadhassan100/Django-CURD-App
-Install following dependencies
+## Install following dependencies
 pip install django
-Run project
+## Run project
 python manage.py runserver
